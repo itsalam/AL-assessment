@@ -1,0 +1,9 @@
+Flask
+flask-jwt-extended
+python-dotenv
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+pytest
+Flask-Testing
+werkzeug
